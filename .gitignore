@@ -22,3 +22,9 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+# All config files
+*.yaml
+
+# The default changesets html file
+changesets.html
